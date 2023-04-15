@@ -1,16 +1,37 @@
-### Hi there 👋
+{
+/ / ปลดล็อคไว้สำหรับการอัพเดทและการอัพเดทต้องเปลี่ยนตัวเลขให้เยอะกว่าเดิม
 
-<!--
-**nanta44/nanta44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+"เวอร์ชั่น"."1.4",
 
-Here are some ideas to get you started:
+// ลิงค์สำหรับอัพเดตการใช้งาน
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+"URL":"https://github.com/nanta44/nanta44/raw/master/file.zip
+
+"บันทึกการเปลี่ยนแปลง":"
+
+พบกับไฟล์ใหม่ =
+
+รองรับซิมทรูมูฟ & ดีแทค
+
+กดปุ่มตกลงเพื่อรับการอัพเดท
+
+",
+
+
+
+
+
+
+
+
+
+
+
+ / / ไม่ต้องวุ่นวายด้านล่าง
+  เวอร์ชั่นล่าสุด": "1.0.0",
+  "latestVersionCode": "1",
+  "url": "",
+   "releaseNotes": [
+   "-Demo"
+    ]
+}
