@@ -2,12 +2,22 @@
 //เวอร์ชั่นไว้สำหรับอัพเดทหากมีการอัพเดทต้องเปลี่ยนตัวเลขให้เยอะกว่าเดิม
 "Version":"1.1",
 //ลิ้งค์สำหรับอัพเดทเซิร์ฟเวอร์
-"URL":""URL":"https://github.com/nanta44/nanta44/raw/master/file.zip" ,
+"URL":"https://github.com/nanta44/nanta44/raw/master/file.zip" ,
 "Changelog":"
 พบไฟล์ใหม่ (21/03/2021)
 สำหรับทำการทดสอบเท่านั้น 555
 
 ",
+
+
+
+
+
+
+
+
+
+
 
 
 
